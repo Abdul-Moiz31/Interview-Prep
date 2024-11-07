@@ -105,6 +105,7 @@ void temp ::forget()
 }
 int main()
 {
+    // Switch Statements
     char choice;
     cout << "\n 1- Sign-in";
     cout << "\n 2- Sign-up";
