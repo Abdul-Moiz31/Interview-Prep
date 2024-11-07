@@ -58,7 +58,11 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "C_Cpp.errorSquiggles": "enabled",
   "cSpell.words": [
-    "moiz"
+    "displayprice",
+    "dukaan",
+    "itemid",
+    "moiz",
+    "setprice"
   ],
   "files.associations": {
     "iostream": "cpp",
